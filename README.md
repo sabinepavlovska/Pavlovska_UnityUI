@@ -20,6 +20,17 @@ Izmantotie UI elementi
 
 Text, Button, Toggle, Dropdown, Slider, Scroll View, Input Field, Image
 
+**Izstrādes statuss**
 
+✔ Izveidots projekts un GitHub repozitorijs  
+✔ Izveidotas divas ainas (StartScene, DressUpScene)  
+✔ Realizēta pārslēgšanās starp ainām (SceneLoader)  
+⬜ InputField un vecuma aprēķins  
+⬜ Dropdown ar diviem tēliem  
+⬜ Toggle kategorijas  
+⬜ Drag & Drop aprīkojums  
+⬜ Slider izmēra maiņa  
+⬜ Skaņas efekti  
+⬜ Build Windows/WebGL
 
 
