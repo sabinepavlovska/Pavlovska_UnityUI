@@ -1,36 +1,56 @@
 # Pavlovska_UnityUI
 Ieskaites Unity 2D projekts
 
-**Projekta ideja**
+# Pavlovska_UnityUI
 
-Unity 2D projekts, kurā lietotājs var izvēlēties un personalizēt vienu no diviem vēsturiskiem tēliem (Knight vai Priest).
+## Summer Outfit Designer
 
-Spēlē iespējams:
+Unity 2D UI ieskaites projekts.
+
+
+## Projekta ideja
+
+Unity 2D projekts, kurā lietotājs var izvēlēties un personalizēt vienu no diviem pludmales tēliem (vīrietis vai sieviete).
+
+Lietotājs var:
 - izvēlēties tēlu (Dropdown)
-- ievadīt vārdu un dzimšanas gadu
+- ievadīt tēla vārdu un dzimšanas gadu
 - aprēķināt tēla vecumu
-- apģērbt tēlu ar dažādu aprīkojumu (Toggle kategorijas)
-- izmantot drag & drop principu
+- izvēlēties pludmales apģērbu (peldkostīms, šorti, krekls, cepure u.c.)
+- izmantot drag & drop principu aprīkojuma novietošanai
 - mainīt tēla izmērus ar Slider palīdzību
 - klausīties skaņas efektus
 - lasīt tēla aprakstu Scroll View logā
 
+⚠ Projekta sākotnējā ideja paredzēja vēsturisko tēlu personalizēšanu, 
+taču assets ierobežojumu dēļ koncepts tika pārveidots uz pludmales tēlu dizaina projektu.
 
-Izmantotie UI elementi
+## Projekta ekrānattēli
+
+### Start Scene
+![Start Scene](Screenshots/start_scene.png)
+
+### DressUp Scene
+![DressUp Scene](Screenshots/dressup_scene.png)
+
+## Izmantotie UI elementi
 
 Text, Button, Toggle, Dropdown, Slider, Scroll View, Input Field, Image
 
-**Izstrādes statuss**
+
+## Izstrādes statuss
 
 ✔ Izveidots projekts un GitHub repozitorijs  
 ✔ Izveidotas divas ainas (StartScene, DressUpScene)  
 ✔ Realizēta pārslēgšanās starp ainām (SceneLoader)  
-⬜ InputField un vecuma aprēķins  
-⬜ Dropdown ar diviem tēliem  
+✔ InputField un vecuma aprēķins  
+✔ Dropdown ar diviem tēliem  
 ⬜ Toggle kategorijas  
 ⬜ Drag & Drop aprīkojums  
 ⬜ Slider izmēra maiņa  
 ⬜ Skaņas efekti  
-⬜ Build Windows/WebGL
+⬜ Scroll View apraksts  
+⬜ Build Windows/WebGL  
+
 
 
