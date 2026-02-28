@@ -52,12 +52,6 @@ Projekts demonstrē darbu ar interaktīvu UI, notikumiem (events), audio sistēm
 Unity 6.3LTS (6000.3.4f1)
 
 ### Soļi:
-## ▶ Kā palaist projektu
-
-### Unity versija
-Unity 6.x LTS (6000.x)
-
-### Soļi:
 1. Atvērt projektu Unity vidē.
 2. Atvērt StartScene (Scenes mapē).
 3. Spiest ▶ Play (Unity augšējā joslā).
