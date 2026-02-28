@@ -49,7 +49,7 @@ Text, Button, Toggle, Dropdown, Slider, Scroll View, Input Field, Image
 ✔ Drag & Drop aprīkojums  
 ⬜ Slider izmēra maiņa  
 ⬜ Skaņas efekti  
-⬜ Scroll View apraksts  
+✔ Scroll View apraksts  
 ⬜ Build Windows/WebGL  
 
 
