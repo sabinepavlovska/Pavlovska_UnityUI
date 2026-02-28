@@ -40,7 +40,7 @@ public class DraggableItem : MonoBehaviour, IBeginDragHandler, IDragHandler, IEn
     {
         cg.blocksRaycasts = true;
 
-        // Ja netika nomests drop-zon?, atgrie?am atpaka?
+      
         if (transform.parent == canvasRoot)
             ResetToOriginal();
     }
