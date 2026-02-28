@@ -945,9 +945,6 @@ GameObject:
   - component: {fileID: 248268703}
   - component: {fileID: 248268702}
   - component: {fileID: 248268705}
-  - component: {fileID: 248268708}
-  - component: {fileID: 248268707}
-  - component: {fileID: 248268706}
   m_Layer: 5
   m_Name: Btn_Top_03
   m_TagString: Untagged
@@ -973,7 +970,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 179, y: -102}
-  m_SizeDelta: {x: 120, y: 150}
+  m_SizeDelta: {x: 150, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &248268702
 MonoBehaviour:
@@ -1084,44 +1081,6 @@ MonoBehaviour:
   wardrobe: {fileID: 62092362}
   slot: 0
   spriteToEquip: {fileID: 6736360721011798296, guid: ae29d43fa594e984ea2273864fc7360f, type: 3}
---- !u!114 &248268706
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 248268700}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 78b5292580fc1914696234e09f2e2860, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::EquipmentItemUI
-  slotType: 0
-  sprite: {fileID: 6736360721011798296, guid: ae29d43fa594e984ea2273864fc7360f, type: 3}
---- !u!114 &248268707
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 248268700}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 432eb39b964919c47b1db10d7c2d3c23, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::DraggableItem
---- !u!225 &248268708
-CanvasGroup:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 248268700}
-  m_Enabled: 1
-  m_Alpha: 1
-  m_Interactable: 1
-  m_BlocksRaycasts: 1
-  m_IgnoreParentGroups: 0
 --- !u!1 &264877904
 GameObject:
   m_ObjectHideFlags: 0
@@ -1368,9 +1327,6 @@ GameObject:
   - component: {fileID: 304588983}
   - component: {fileID: 304588982}
   - component: {fileID: 304588985}
-  - component: {fileID: 304588988}
-  - component: {fileID: 304588987}
-  - component: {fileID: 304588986}
   m_Layer: 5
   m_Name: Btn_Top_01
   m_TagString: Untagged
@@ -1396,7 +1352,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 7.1548, y: 76.6947}
-  m_SizeDelta: {x: 100, y: 150}
+  m_SizeDelta: {x: 150, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &304588982
 MonoBehaviour:
@@ -1507,44 +1463,6 @@ MonoBehaviour:
   wardrobe: {fileID: 62092362}
   slot: 0
   spriteToEquip: {fileID: -2450434862488170093, guid: ae29d43fa594e984ea2273864fc7360f, type: 3}
---- !u!114 &304588986
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 304588980}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 78b5292580fc1914696234e09f2e2860, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::EquipmentItemUI
-  slotType: 0
-  sprite: {fileID: -2450434862488170093, guid: ae29d43fa594e984ea2273864fc7360f, type: 3}
---- !u!114 &304588987
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 304588980}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 432eb39b964919c47b1db10d7c2d3c23, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::DraggableItem
---- !u!225 &304588988
-CanvasGroup:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 304588980}
-  m_Enabled: 1
-  m_Alpha: 1
-  m_Interactable: 1
-  m_BlocksRaycasts: 1
-  m_IgnoreParentGroups: 0
 --- !u!1 &307402705
 GameObject:
   m_ObjectHideFlags: 0
@@ -1770,9 +1688,6 @@ GameObject:
   - component: {fileID: 351338727}
   - component: {fileID: 351338726}
   - component: {fileID: 351338729}
-  - component: {fileID: 351338732}
-  - component: {fileID: 351338731}
-  - component: {fileID: 351338730}
   m_Layer: 5
   m_Name: Btn_Top_02
   m_TagString: Untagged
@@ -1798,7 +1713,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -186, y: 0}
-  m_SizeDelta: {x: 120, y: 150}
+  m_SizeDelta: {x: 150, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &351338726
 MonoBehaviour:
@@ -1909,44 +1824,6 @@ MonoBehaviour:
   wardrobe: {fileID: 62092362}
   slot: 0
   spriteToEquip: {fileID: -6323616255513597625, guid: ae29d43fa594e984ea2273864fc7360f, type: 3}
---- !u!114 &351338730
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 351338724}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 78b5292580fc1914696234e09f2e2860, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::EquipmentItemUI
-  slotType: 0
-  sprite: {fileID: -122301069225313523, guid: 0ad590dc7acdef54ba0cc89267e0a21a, type: 3}
---- !u!114 &351338731
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 351338724}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 432eb39b964919c47b1db10d7c2d3c23, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::DraggableItem
---- !u!225 &351338732
-CanvasGroup:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 351338724}
-  m_Enabled: 1
-  m_Alpha: 1
-  m_Interactable: 1
-  m_BlocksRaycasts: 1
-  m_IgnoreParentGroups: 0
 --- !u!1 &382075547
 GameObject:
   m_ObjectHideFlags: 0
@@ -2394,7 +2271,6 @@ GameObject:
   - component: {fileID: 446077685}
   - component: {fileID: 446077687}
   - component: {fileID: 446077686}
-  - component: {fileID: 446077688}
   m_Layer: 5
   m_Name: CharacterDropZone
   m_TagString: Untagged
@@ -2418,8 +2294,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 399.57202, y: -157.56136}
-  m_SizeDelta: {x: 235.3767, y: 606.053}
+  m_AnchoredPosition: {x: 26.91, y: -225}
+  m_SizeDelta: {x: 153.82, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &446077686
 MonoBehaviour:
@@ -2459,19 +2335,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 446077684}
   m_CullTransparentMesh: 1
---- !u!114 &446077688
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 446077684}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ba3638f1aa1d93842a3c0ee1e8b6df5c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::DropZone
-  wardrobeManager: {fileID: 62092362}
 --- !u!1 &470101094
 GameObject:
   m_ObjectHideFlags: 0
@@ -5490,7 +5353,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1467597411
 RectTransform:
   m_ObjectHideFlags: 0

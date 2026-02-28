@@ -1,0 +1,1484 @@
+fileFormatVersion: 2
+guid: ae29d43fa594e984ea2273864fc7360f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6458435692614359302
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_0
+  - first:
+      213: -6165226454665869516
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_1
+  - first:
+      213: 8121991967315394720
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_2
+  - first:
+      213: -732581764563583247
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_3
+  - first:
+      213: 5446548005103785029
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_4
+  - first:
+      213: -5811072770556349172
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_5
+  - first:
+      213: -1341287477597993234
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_6
+  - first:
+      213: -8906523847020751829
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_7
+  - first:
+      213: 260841965593962662
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_8
+  - first:
+      213: -6121579704486817596
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_9
+  - first:
+      213: -7246280406636206363
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_10
+  - first:
+      213: 7339527962314835884
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_11
+  - first:
+      213: 6736360721011798296
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_12
+  - first:
+      213: -4889969894380552748
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_13
+  - first:
+      213: -5671240178802274908
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_14
+  - first:
+      213: -3374731409374697101
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_15
+  - first:
+      213: -6323616255513597625
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_16
+  - first:
+      213: -2450434862488170093
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_17
+  - first:
+      213: -1621885048537994078
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_18
+  - first:
+      213: -6991681974828587527
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_19
+  - first:
+      213: -1242865700194827718
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_20
+  - first:
+      213: -4417466298562224360
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_21
+  - first:
+      213: 6389771835071466412
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_22
+  - first:
+      213: 4879539884900456626
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_23
+  - first:
+      213: 5548220515491067100
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_24
+  - first:
+      213: 4010697332478926561
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_25
+  - first:
+      213: 3530852014148270025
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_26
+  - first:
+      213: -8372218390656851715
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_27
+  - first:
+      213: -2849599099622593558
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_28
+  - first:
+      213: 5972299488954069583
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_29
+  - first:
+      213: -2291102961627037599
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_30
+  - first:
+      213: 9128907105851379668
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_31
+  - first:
+      213: 2776125695945000020
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_32
+  - first:
+      213: -3195120090048937059
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_33
+  - first:
+      213: -8846060996975587236
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_34
+  - first:
+      213: -1582808548045251162
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_35
+  - first:
+      213: -3975964355612049467
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_36
+  - first:
+      213: -2378502233730724806
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_37
+  - first:
+      213: -7183404345584504
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_38
+  - first:
+      213: -1950457706685115606
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_39
+  - first:
+      213: -8472142931996218824
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_40
+  - first:
+      213: 4790863349653656062
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_41
+  - first:
+      213: -1514417387117964389
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_42
+  - first:
+      213: -7814439040861992226
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_43
+  - first:
+      213: 7528924038184451849
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_44
+  - first:
+      213: 5906060563332943423
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_45
+  - first:
+      213: -6080358220113878107
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_46
+  - first:
+      213: -6763660282927538547
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_47
+  - first:
+      213: -4148415518398696735
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_48
+  - first:
+      213: -8115640037193137456
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_49
+  - first:
+      213: -8604405169414303677
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_50
+  - first:
+      213: -1664300975078041075
+    second: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_0
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1662
+        width: 228
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af66401b4f60f56a0800000000000000
+      internalID: -6458435692614359302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_1
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1543
+        width: 248
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437ccc94437b07aa0800000000000000
+      internalID: -6165226454665869516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_2
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1721
+        width: 57
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0096089ac17b070800000000000000
+      internalID: 8121991967315394720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_3
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1695
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe324a34c855d5f0800000000000000
+      internalID: -732581764563583247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_4
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1723
+        width: 133
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544d258bd86069b40800000000000000
+      internalID: 5446548005103785029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_5
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1787
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c053b038a1cea5fa0800000000000000
+      internalID: -5811072770556349172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_6
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1695
+        width: 97
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee68714452ac26de0800000000000000
+      internalID: -1341287477597993234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_7
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1750
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2458caffbba56480800000000000000
+      internalID: -8906523847020751829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_8
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1708
+        width: 186
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a82ebdb262be9300800000000000000
+      internalID: 260841965593962662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_9
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1723
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c092d931b7cb0ba0800000000000000
+      internalID: -6121579704486817596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_10
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1723
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e66393dc5a007b90800000000000000
+      internalID: -7246280406636206363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1418
+        width: 246
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca782d49bcd3bd560800000000000000
+      internalID: 7339527962314835884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_12
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1350
+        width: 265
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8117dce826c5c7d50800000000000000
+      internalID: 6736360721011798296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_13
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1578
+        width: 208
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddb71b0a46532cb0800000000000000
+      internalID: -4889969894380552748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_14
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1577
+        width: 208
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad419ada15bb41b0800000000000000
+      internalID: -5671240178802274908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_15
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1466
+        width: 213
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3792edbc9ab8a21d0800000000000000
+      internalID: -3374731409374697101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_16
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1191
+        width: 284
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749e93205800e38a0800000000000000
+      internalID: -6323616255513597625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_17
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1185
+        width: 187
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391d82cb97e4efdd0800000000000000
+      internalID: -2450434862488170093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_18
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1404
+        width: 213
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac20673428ed79e0800000000000000
+      internalID: -1621885048537994078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 635
+        width: 296
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f527d3994e88fe90800000000000000
+      internalID: -6991681974828587527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_20
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1009
+        width: 282
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32ce5c0b3470cee0800000000000000
+      internalID: -1242865700194827718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_21
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1140
+        width: 189
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f50f26ec102b2c0800000000000000
+      internalID: -4417466298562224360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_22
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 607
+        width: 294
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab0b3921a70da850800000000000000
+      internalID: 6389771835071466412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_23
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 833
+        width: 43
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b897d22cab97b340800000000000000
+      internalID: 4879539884900456626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_24
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 832
+        width: 176
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd43161c92d3ffc40800000000000000
+      internalID: 5548220515491067100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_25
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 833
+        width: 42
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee530c69fbd8a730800000000000000
+      internalID: 4010697332478926561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_26
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 604
+        width: 181
+        height: 533
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7b7c9133b100130800000000000000
+      internalID: 3530852014148270025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_27
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 604
+        width: 178
+        height: 525
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0e7ea4bb7efcb80800000000000000
+      internalID: -8372218390656851715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_28
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 171
+        width: 275
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebe8ba77b03478d0800000000000000
+      internalID: -2849599099622593558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_29
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 609
+        width: 177
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42ba5b1ebed1e250800000000000000
+      internalID: 5972299488954069583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_30
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 544
+        width: 1026
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1600064cefd5430e0800000000000000
+      internalID: -2291102961627037599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_31
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 427
+        width: 50
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df8fcf45a460be70800000000000000
+      internalID: 9128907105851379668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_32
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 427
+        width: 50
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454c2a6ac97c68620800000000000000
+      internalID: 2776125695945000020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_33
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 427
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d934be1e437a8a3d0800000000000000
+      internalID: -3195120090048937059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_34
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 427
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5015d5446a7c3580800000000000000
+      internalID: -8846060996975587236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_35
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 427
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad9f4af20cb80ae0800000000000000
+      internalID: -1582808548045251162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_36
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 427
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cff020fb7982d8c0800000000000000
+      internalID: -3975964355612049467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_37
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 430
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cc10df1dcddfed0800000000000000
+      internalID: -2378502233730724806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_38
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 430
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88414b75bba76eff0800000000000000
+      internalID: -7183404345584504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_39
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 427
+        width: 50
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a235c9bbc059ee4e0800000000000000
+      internalID: -1950457706685115606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_40
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 427
+        width: 50
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a670404e6ec6a80800000000000000
+      internalID: -8472142931996218824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_41
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 393
+        width: 69
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef15b8b55d09c7240800000000000000
+      internalID: 4790863349653656062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_42
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 393
+        width: 104
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93982ff865bbfae0800000000000000
+      internalID: -1514417387117964389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_43
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 393
+        width: 305
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda0a7258198d8390800000000000000
+      internalID: -7814439040861992226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_44
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 198
+        width: 169
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f32e4d58c1c7860800000000000000
+      internalID: 7528924038184451849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_45
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 197
+        width: 132
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e476b6aca86f150800000000000000
+      internalID: 5906060563332943423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_46
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 197
+        width: 62
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a36cf6f96a3e9ba0800000000000000
+      internalID: -6080358220113878107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_47
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 264
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e9faedec6a222a0800000000000000
+      internalID: -6763660282927538547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_48
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 264
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2b025b01edd66c0800000000000000
+      internalID: -4148415518398696735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_49
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 194
+        width: 262
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d24a2a72647f5f80800000000000000
+      internalID: -8115640037193137456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_50
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 194
+        width: 126
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34096852613079880800000000000000
+      internalID: -8604405169414303677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_51
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 197
+        width: 94
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a132db41737e8e0800000000000000
+      internalID: -1664300975078041075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ca72b3e343f884f40ba7fffd8cd37164
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_0: -6458435692614359302
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_1: -6165226454665869516
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_10: -7246280406636206363
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_11: 7339527962314835884
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_12: 6736360721011798296
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_13: -4889969894380552748
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_14: -5671240178802274908
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_15: -3374731409374697101
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_16: -6323616255513597625
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_17: -2450434862488170093
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_18: -1621885048537994078
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_19: -6991681974828587527
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_2: 8121991967315394720
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_20: -1242865700194827718
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_21: -4417466298562224360
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_22: 6389771835071466412
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_23: 4879539884900456626
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_24: 5548220515491067100
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_25: 4010697332478926561
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_26: 3530852014148270025
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_27: -8372218390656851715
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_28: -2849599099622593558
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_29: 5972299488954069583
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_3: -732581764563583247
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_30: -2291102961627037599
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_31: 9128907105851379668
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_32: 2776125695945000020
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_33: -3195120090048937059
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_34: -8846060996975587236
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_35: -1582808548045251162
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_36: -3975964355612049467
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_37: -2378502233730724806
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_38: -7183404345584504
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_39: -1950457706685115606
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_4: 5446548005103785029
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_40: -8472142931996218824
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_41: 4790863349653656062
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_42: -1514417387117964389
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_43: -7814439040861992226
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_44: 7528924038184451849
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_45: 5906060563332943423
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_46: -6080358220113878107
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_47: -6763660282927538547
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_48: -4148415518398696735
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_49: -8115640037193137456
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_5: -5811072770556349172
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_50: -8604405169414303677
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_51: -1664300975078041075
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_6: -1341287477597993234
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_7: -8906523847020751829
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_8: 260841965593962662
+      sport-boy-clothing-sports-equipment-fitness-sportswear-hat-jacket-vector-illustration_9: -6121579704486817596
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1460 @@
+fileFormatVersion: 2
+guid: 0ad590dc7acdef54ba0cc89267e0a21a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6369086852193872884
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_0
+  - first:
+      213: -4914368235998149449
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_1
+  - first:
+      213: -7297697147169520204
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_2
+  - first:
+      213: -5480983522028478685
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_3
+  - first:
+      213: 635405294640245781
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_4
+  - first:
+      213: 4457721419744304801
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_5
+  - first:
+      213: -7133311533165638756
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_6
+  - first:
+      213: -1449109198582992634
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_7
+  - first:
+      213: -4961357735055562951
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_8
+  - first:
+      213: 7635451485938152386
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_9
+  - first:
+      213: 8912483503292374787
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_10
+  - first:
+      213: -181278868473818796
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_11
+  - first:
+      213: 1452843928859147453
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_12
+  - first:
+      213: 7141284490089019876
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_13
+  - first:
+      213: 4739046677355185341
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_14
+  - first:
+      213: 3093534552164059164
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_15
+  - first:
+      213: -122301069225313523
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_16
+  - first:
+      213: -6630870124007460187
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_17
+  - first:
+      213: 3567821566705943347
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_18
+  - first:
+      213: 5321503547547820809
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_19
+  - first:
+      213: 5814806642178244770
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_20
+  - first:
+      213: -3523451285989281529
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_21
+  - first:
+      213: -3803067471314329519
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_22
+  - first:
+      213: -5518912631627763689
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_23
+  - first:
+      213: 7106389880977157267
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_24
+  - first:
+      213: -544563921938472515
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_25
+  - first:
+      213: 552221803495029942
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_26
+  - first:
+      213: -2391693575031324236
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_27
+  - first:
+      213: -4385200260364175461
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_28
+  - first:
+      213: -8779827607571903001
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_29
+  - first:
+      213: 1724525181276899104
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_30
+  - first:
+      213: -7950800418445228688
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_31
+  - first:
+      213: -2477149487127222407
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_32
+  - first:
+      213: 688096938905666242
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_33
+  - first:
+      213: -4876738950825648485
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_34
+  - first:
+      213: 3662368244135213064
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_35
+  - first:
+      213: 6299181810243589177
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_36
+  - first:
+      213: -4188666488429893066
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_37
+  - first:
+      213: -3940083121945507920
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_38
+  - first:
+      213: -2370987274049638466
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_39
+  - first:
+      213: 8785309508895866155
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_40
+  - first:
+      213: 5715297455709316660
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_41
+  - first:
+      213: 8513167062639534243
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_42
+  - first:
+      213: -5138072419965076994
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_43
+  - first:
+      213: -7055229949836065936
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_44
+  - first:
+      213: 7801190839982333631
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_45
+  - first:
+      213: 8544151462412837573
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_46
+  - first:
+      213: 1668316786738457465
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_47
+  - first:
+      213: 2074930365026942872
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_48
+  - first:
+      213: 5307623271959152374
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_49
+  - first:
+      213: 207256247373797281
+    second: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_0
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1505
+        width: 186
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb60a84fba836850800000000000000
+      internalID: 6369086852193872884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_1
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1768
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b40ed57028accbb0800000000000000
+      internalID: -4914368235998149449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_2
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1741
+        width: 50
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b544980c1f59ba90800000000000000
+      internalID: -7297697147169520204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_3
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1769
+        width: 132
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f19b5b682afe3b0800000000000000
+      internalID: -5480983522028478685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_4
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1833
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c2f6bbfb961d800800000000000000
+      internalID: 635405294640245781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_5
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1741
+        width: 97
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae528363020ddd30800000000000000
+      internalID: 4457721419744304801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_6
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1796
+        width: 19
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b077954f2610d90800000000000000
+      internalID: -7133311533165638756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1678
+        width: 251
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601b5b19cdab3ebe0800000000000000
+      internalID: -1449109198582992634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1615
+        width: 253
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93760662d67b52bb0800000000000000
+      internalID: -4961357735055562951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_9
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1769
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3721f0ca296f960800000000000000
+      internalID: 7635451485938152386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_10
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1769
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f5540a6808fab70800000000000000
+      internalID: 8912483503292374787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_11
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1641
+        width: 208
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451555f54d7fb7df0800000000000000
+      internalID: -181278868473818796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_12
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1162
+        width: 194
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc7bb51bd9892410800000000000000
+      internalID: 1452843928859147453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_13
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1446
+        width: 241
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e933c75860fa1360800000000000000
+      internalID: 7141284490089019876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_14
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1463
+        width: 223
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db440c138d974c140800000000000000
+      internalID: 4739046677355185341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_15
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1246
+        width: 220
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18c222f8417eea20800000000000000
+      internalID: 3093534552164059164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_16
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1312
+        width: 221
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bbc2553df7d4ef0800000000000000
+      internalID: -122301069225313523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_17
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1401
+        width: 233
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2f8ca01ca6af3a0800000000000000
+      internalID: -6630870124007460187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 660
+        width: 329
+        height: 697
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3334c71dfc2738130800000000000000
+      internalID: 3567821566705943347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_19
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1272
+        width: 185
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903a19e2847c9d940800000000000000
+      internalID: 5321503547547820809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_20
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1163
+        width: 142
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0cd9835d752b050800000000000000
+      internalID: 5814806642178244770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_21
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1181
+        width: 186
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701373339bf2a1fc0800000000000000
+      internalID: -3523451285989281529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_22
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 934
+        width: 171
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150677bc84ac83bc0800000000000000
+      internalID: -3803067471314329519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_23
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1131
+        width: 192
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7103965b332e863b0800000000000000
+      internalID: -5518912631627763689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 167
+        width: 275
+        height: 754
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ce21b02f7fe9260800000000000000
+      internalID: 7106389880977157267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_25
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 918
+        width: 307
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db12d5b8ff15178f0800000000000000
+      internalID: -544563921938472515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_26
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 559
+        width: 194
+        height: 526
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcfb82fdc2e9a700800000000000000
+      internalID: 552221803495029942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_27
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 559
+        width: 192
+        height: 523
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b18ca08d5ffeced0800000000000000
+      internalID: -2391693575031324236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_28
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 559
+        width: 201
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97fa04d893a423c0800000000000000
+      internalID: -4385200260364175461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_29
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 559
+        width: 266
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed4285fe49c72680800000000000000
+      internalID: -8779827607571903001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_30
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 520
+        width: 1024
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027c934f38ebee710800000000000000
+      internalID: 1724525181276899104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_31
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 428
+        width: 47
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0758b82052519a190800000000000000
+      internalID: -7950800418445228688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_32
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 428
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977ad3c7aa56f9dd0800000000000000
+      internalID: -2477149487127222407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_33
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 441
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2818e258c9c8900800000000000000
+      internalID: 688096938905666242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_34
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 428
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ed9b523c7525cb0800000000000000
+      internalID: -4876738950825648485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_35
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 428
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808b954938853d230800000000000000
+      internalID: 3662368244135213064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_36
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 428
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934db2f5b703b6750800000000000000
+      internalID: 6299181810243589177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_37
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 428
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63aad82750eded5c0800000000000000
+      internalID: -4188666488429893066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_38
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 428
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b70deaa6430259c0800000000000000
+      internalID: -3940083121945507920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_39
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 428
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfac43e2af881fd0800000000000000
+      internalID: -2370987274049638466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_40
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 428
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d7997a370bbe970800000000000000
+      internalID: 8785309508895866155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_41
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 428
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4366f3941c0d05f40800000000000000
+      internalID: 5715297455709316660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_42
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 399
+        width: 1024
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a06f2ab658d42670800000000000000
+      internalID: 8513167062639534243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_43
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 195
+        width: 144
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9ffb15b56e1b8b0800000000000000
+      internalID: -5138072419965076994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_44
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 195
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0730357adb9c61e90800000000000000
+      internalID: -7055229949836065936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_45
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 197
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe9d2a8cb5634c60800000000000000
+      internalID: 7801190839982333631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_46
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 201
+        width: 62
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c260487c7ce29670800000000000000
+      internalID: 8544151462412837573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_47
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 229
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bed56474d072710800000000000000
+      internalID: 1668316786738457465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_48
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 263
+        width: 332
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f3a1d6c22abcc10800000000000000
+      internalID: 2074930365026942872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_49
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 196
+        width: 137
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6c8beae3778a940800000000000000
+      internalID: 5307623271959152374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_50
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 198
+        width: 117
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7123a757250e200800000000000000
+      internalID: 207256247373797281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 94a0fc1cd24d83346bce3e8256bd5ba5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      - key: SpriteEditor.SliceOnImport
+        value: False
+    nameFileIdTable:
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_0: 6369086852193872884
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_1: -4914368235998149449
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_10: 8912483503292374787
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_11: -181278868473818796
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_12: 1452843928859147453
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_13: 7141284490089019876
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_14: 4739046677355185341
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_15: 3093534552164059164
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_16: -122301069225313523
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_17: -6630870124007460187
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_18: 3567821566705943347
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_19: 5321503547547820809
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_2: -7297697147169520204
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_20: 5814806642178244770
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_21: -3523451285989281529
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_22: -3803067471314329519
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_23: -5518912631627763689
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_24: 7106389880977157267
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_25: -544563921938472515
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_26: 552221803495029942
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_27: -2391693575031324236
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_28: -4385200260364175461
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_29: -8779827607571903001
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_3: -5480983522028478685
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_30: 1724525181276899104
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_31: -7950800418445228688
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_32: -2477149487127222407
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_33: 688096938905666242
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_34: -4876738950825648485
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_35: 3662368244135213064
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_36: 6299181810243589177
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_37: -4188666488429893066
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_38: -3940083121945507920
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_39: -2370987274049638466
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_4: 635405294640245781
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_40: 8785309508895866155
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_41: 5715297455709316660
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_42: 8513167062639534243
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_43: -5138072419965076994
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_44: -7055229949836065936
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_45: 7801190839982333631
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_46: 8544151462412837573
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_47: 1668316786738457465
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_48: 2074930365026942872
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_49: 5307623271959152374
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_5: 4457721419744304801
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_50: 207256247373797281
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_6: -7133311533165638756
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_7: -1449109198582992634
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_8: -4961357735055562951
+      cute-cartoon-sporty-girl-with-assorted-fitness-clothing-equipment-emphasizing-sport-is-life-concept-isolated-white_9: 7635451485938152386
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

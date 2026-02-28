@@ -45,8 +45,8 @@ Text, Button, Toggle, Dropdown, Slider, Scroll View, Input Field, Image
 ✔ Realizēta pārslēgšanās starp ainām (SceneLoader)  
 ✔ InputField un vecuma aprēķins  
 ✔ Dropdown ar diviem tēliem  
-⬜ Toggle kategorijas  
-⬜ Drag & Drop aprīkojums  
+✔ Toggle kategorijas  
+✔ Drag & Drop aprīkojums  
 ⬜ Slider izmēra maiņa  
 ⬜ Skaņas efekti  
 ⬜ Scroll View apraksts  
